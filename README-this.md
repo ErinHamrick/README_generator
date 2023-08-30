@@ -17,9 +17,11 @@
 ![video](https://drive.google.com/file/d/1wT_UR9lBk2UTIQQ0E4j1ywEpdhBxRdbk/view)
  
 ## Installation
-  Dependenies: npm install
+  The repo can be cloned here: git@github.com:ErinHamrick/README_generator.git.
+  Dependenies: npm install.
  
 ## Usage
+  
   'node index.js' will generate command-line prompts to follow.
 
 ## License
