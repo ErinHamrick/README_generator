@@ -14,7 +14,7 @@
   - [Preview](#preview)
 
 ## Preview
-
+![video](https://drive.google.com/file/d/1wT_UR9lBk2UTIQQ0E4j1ywEpdhBxRdbk/view)
  
 ## Installation
   Dependenies: npm install
